@@ -1,10 +1,8 @@
 # IMPContact
 
-
-
-This program is used to predict Binding sites of inner membrane proteins
+This program is used to predict Binding sites of inner membrane proteins. Version is 1.0.
     
-   # Usage:
+    # Usage:
         
         just run this program in python type the command like 
         
@@ -12,7 +10,7 @@ This program is used to predict Binding sites of inner membrane proteins
         
         Program will run the demo program. amino name is 1kqf_C.
         
-   # Input:
+    # Input:
         
         if you do not input any file. Program will predict the demo program automatically.
         
