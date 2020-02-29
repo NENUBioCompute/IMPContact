@@ -1,6 +1,10 @@
+# IMPContact
+
+
+
 This program is used to predict Binding sites of inner membrane proteins
     
-    Usage:
+   # Usage:
         
         just run this program in python type the command like 
         
@@ -8,7 +12,7 @@ This program is used to predict Binding sites of inner membrane proteins
         
         Program will run the demo program. amino name is 1kqf_C.
         
-    Input:
+   # Input:
         
         if you do not input any file. Program will predict the demo program automatically.
         
@@ -31,7 +35,7 @@ This program is used to predict Binding sites of inner membrane proteins
             that if the fasta file could not provide correct amino acid infomation(include more or less). The result
             file could not be written in file system.
        
-    Output:
+    # Output:
         
         There are two type of output files will generate. if predicted correctly. One with postfix matrix.
             it will organize as two dimension matrix. the row and the column are all amino acid list.
